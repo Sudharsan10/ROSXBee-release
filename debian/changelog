@@ -1,0 +1,11 @@
+ros-foxy-rosxbeepy (0.0.1-1focal) focal; urgency=high
+
+  * Merge pull request #1 <https://github.com/Sudharsan10/ROSXBee/issues/1> from Sudharsan10/development
+    Interfacing an XBee module
+  * Interfacing an XBee module
+  * base commit
+  * Contributors: Sudharsan
+
+ -- Sudharsan <sudharsansci@gmail.com>  Fri, 12 Mar 2021 05:00:00 -0000
+
+
